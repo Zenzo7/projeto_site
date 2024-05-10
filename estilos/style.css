@@ -4,7 +4,11 @@
 }
 
 body {
-    background-color: darkgreen;
+    background-color: rgb(70, 185, 70);
+}
+
+img.lado {
+    float:right
 }
 
 main {
